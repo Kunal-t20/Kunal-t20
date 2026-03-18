@@ -10,11 +10,12 @@ AI Systems Developer • Backend Engineer • Building AI-powered systems
 I build AI systems and backend infrastructure using Python, with a focus on making them reliable and usable in real-world settings.
 
 My work centers on designing and implementing:
-
+```
 • AI agents and autonomous workflows
 • Retrieval-Augmented Generation (RAG) systems
 • Monitoring and evaluation pipelines for ML systems
 • Scalable backend APIs for AI-driven applications
+```
 
 Currently, I’m focused on turning experimental models into production-ready systems that are scalable, maintainable, and practical to deploy.
 .
